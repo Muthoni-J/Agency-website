@@ -82,6 +82,9 @@ nav ul li a{
     color: #ABA8AE;
 
 }
+.support p{
+    font-size: large;
+}
 
 .btn1{
     background-color: #2CA794;
@@ -239,6 +242,10 @@ nav ul li a{
     padding: 10%;
     justify-content: center;
 }
+.project p{
+
+
+}
 .work{
     display: flex;
     border: 20px solid #F2E9EA;
@@ -255,7 +262,8 @@ nav ul li a{
     background-color: #f0f6f6;
     box-shadow: 5px 5px gray;
     
-}p{
+}
+.p{
     font-size: xx-large;
     align-items: center;
     color: white;
